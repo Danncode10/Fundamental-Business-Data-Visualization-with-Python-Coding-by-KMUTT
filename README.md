@@ -11,6 +11,7 @@ This repository serves as evidence of competency for the course **Fundamental Bu
 ```
 Business Data Visualization/
 ├── README.md                 # This file - repository description and overview
+├── calendar.md               # Learning calendar with course schedule and completion tracking
 ├── Notes.pdf                 # Personal digital notes taken during the course
 ├── Practice/                 # Practice codes related to the course and personal exercises
 │   └── README.md             # Overview of practice materials
@@ -19,6 +20,9 @@ Business Data Visualization/
 ```
 
 ## Folder Descriptions
+
+### 📅 calendar.md
+Contains a structured learning calendar with all course modules, exercises, and assessments. This document helps track progress and completion dates for each learning unit in the Fundamental Business Data Visualization course.
 
 ### 📚 Notes.pdf
 Contains personal digital notes taken while learning the course materials. This document captures key concepts, examples, and insights from the Fundamental Business Data Visualization course.
