@@ -4,9 +4,9 @@
 |-----|--------|---------------|
 | 1 | Course Introduction | 11/16/25 |
 | 2 | EP.1 Introduction to Data Science for Business | 11/16/25 |
-| 3 | EP.2 Overview of Data Visualization in Business Intelligent | |
-| 4 | EP.3 Data Visualization Technique | |
-| 5 | EP.4 Introduction to Basic Python | |
+| 3 | EP.2 Overview of Data Visualization in Business Intelligent | 11/20/25 |
+| 4 | EP.3 Data Visualization Technique | 11/20/25 |
+| 5 | EP.4 Introduction to Basic Python | 11/20/25 |
 | 6 | EP.5 Data Collection | |
 | 7 | Exercise: Data Collection | |
 | 8 | EP.6 Data Exploring and Analysis | |
