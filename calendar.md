@@ -7,8 +7,8 @@
 | 3 | EP.2 Overview of Data Visualization in Business Intelligent | 11/20/25 |
 | 4 | EP.3 Data Visualization Technique | 11/20/25 |
 | 5 | EP.4 Introduction to Basic Python | 11/20/25 |
-| 6 | EP.5 Data Collection | |
-| 7 | Exercise: Data Collection | |
+| 6 | EP.5 Data Collection | 11/22/25 |
+| 7 | Exercise: Data Collection | 11/22/25 |
 | 8 | EP.6 Data Exploring and Analysis | |
 | 9 | Exercise: Data Exploring and Analysis | |
 | 10 | EP.7 Data Visualization Overview | |
