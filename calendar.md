@@ -12,7 +12,7 @@
 | 8 | EP.6 Data Exploring and Analysis | 11/27/25 |
 | 9 | Exercise: Data Exploring and Analysis | 11/27/25 |
 | 10 | EP.7 Data Visualization Overview | 11/27/25 |
-| 11 | EP.8 Data Visualization with Python | |
+| 11 | EP.8 Data Visualization with Python | 11/27/25 |
 | 12 | Exercise: Data Visualization with Python | |
 | 13 | EP.9 Explore Additional Tool for Data Visualization | |
 | 14 | EP.10 Determine the best way to evaluate the results | |
