@@ -9,7 +9,7 @@
 | 5 | EP.4 Introduction to Basic Python | 11/20/25 |
 | 6 | EP.5 Data Collection | 11/22/25 |
 | 7 | Exercise: Data Collection | 11/22/25 |
-| 8 | EP.6 Data Exploring and Analysis | |
+| 8 | EP.6 Data Exploring and Analysis | 11/27/25 |
 | 9 | Exercise: Data Exploring and Analysis | |
 | 10 | EP.7 Data Visualization Overview | |
 | 11 | EP.8 Data Visualization with Python | |
