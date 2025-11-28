@@ -14,7 +14,7 @@
 | 10 | EP.7 Data Visualization Overview | 11/27/25 |
 | 11 | EP.8 Data Visualization with Python | 11/27/25 |
 | 12 | Exercise: Data Visualization with Python | 11/27/25 |
-| 13 | EP.9 Explore Additional Tool for Data Visualization | |
+| 13 | EP.9 Explore Additional Tool for Data Visualization | 11/28/25 |
 | 14 | EP.10 Determine the best way to evaluate the results | |
 | 15 | Exercise: Case Study 1 | |
 | 16 | Exercise: Case Study 2 | |
