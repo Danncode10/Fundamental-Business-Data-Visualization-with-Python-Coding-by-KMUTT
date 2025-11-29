@@ -17,5 +17,5 @@
 | 13 | EP.9 Explore Additional Tool for Data Visualization | 11/28/25 |
 | 14 | EP.10 Determine the best way to evaluate the results | 11/28/25 |
 | 15 | Exercise: Case Study 1 | 11/28/25 |
-| 16 | Exercise: Case Study 2 | |
-| 17 | Competency Assessment | |
+| 16 | Exercise: Case Study 2 | 11/29/25 |
+| 17 | Competency Assessment | 11/29/25 |
