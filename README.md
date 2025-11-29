@@ -15,8 +15,10 @@ Business Data Visualization/
 ├── Notes.pdf                 # Personal digital notes taken during the course
 ├── Practice/                 # Practice codes related to the course and personal exercises
 │   └── README.md             # Overview of practice materials
-└── Exercise/                 # Course exercises
-    └── README.md             # Overview of course exercises
+├── Exercise/                 # Course exercises
+│   └── README.md             # Overview of course exercises
+└── assessment/               # Final assessment project for data visualization
+    └── README.md             # Project overview, structure, and instructions
 ```
 
 ## Folder Descriptions
@@ -32,6 +34,9 @@ This folder contains practice codes related to the course content, as well as pe
 
 ### 📝 Exercise/
 Contains the actual exercises from the course. These materials are designed to apply the concepts learned in a structured environment.
+
+### 📊 assessment/
+This folder serves as the final project, applying data visualization techniques using Python (Matplotlib, Seaborn, Plotly) to business datasets for insights and dashboards. See README.md for setup, structure, and usage.
 
 ## Course Information
 - **Course Name**: Fundamental Business Data Visualization with Python Coding
